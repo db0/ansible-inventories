@@ -19,7 +19,7 @@ but will only execute the code on one of them.
 
 
 ```
-plugin: db0.common.execution_host
+plugin: db0.inventories.execution_host
 execution_hosts:
   netapp_executor:
   - nas-admin1
